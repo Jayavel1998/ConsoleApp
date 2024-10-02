@@ -19,6 +19,7 @@ namespace JayaConsoleApp
             Console.WriteLine(name);
            */
 
+            /*
             int age;
             age = 10;
             Console.WriteLine(age+"  "+"123");
@@ -30,6 +31,17 @@ namespace JayaConsoleApp
 
             Console.WriteLine(name);
             Console.ReadLine();
+
+            */
+
+            //tested on git
+
+
+
+
+
+
+
 
 
 
