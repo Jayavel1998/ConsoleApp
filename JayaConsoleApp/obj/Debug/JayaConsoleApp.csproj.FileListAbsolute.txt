@@ -1,0 +1,7 @@
+D:\Jayavel_Workspace\ConsoleApp\JayaConsoleApp\bin\Debug\JayaConsoleApp.exe.config
+D:\Jayavel_Workspace\ConsoleApp\JayaConsoleApp\bin\Debug\JayaConsoleApp.exe
+D:\Jayavel_Workspace\ConsoleApp\JayaConsoleApp\bin\Debug\JayaConsoleApp.pdb
+D:\Jayavel_Workspace\ConsoleApp\JayaConsoleApp\obj\Debug\JayaConsoleApp.csproj.AssemblyReference.cache
+D:\Jayavel_Workspace\ConsoleApp\JayaConsoleApp\obj\Debug\JayaConsoleApp.csproj.CoreCompileInputs.cache
+D:\Jayavel_Workspace\ConsoleApp\JayaConsoleApp\obj\Debug\JayaConsoleApp.exe
+D:\Jayavel_Workspace\ConsoleApp\JayaConsoleApp\obj\Debug\JayaConsoleApp.pdb
