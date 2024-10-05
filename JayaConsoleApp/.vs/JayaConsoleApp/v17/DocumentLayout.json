@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Jayavel_Workspace\\ConsoleApp\\JayaConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A595E06-A86D-46FE-9079-358EF9F2C292}|JayaConsoleApp.csproj|d:\\jayavel_workspace\\consoleapp\\jayaconsoleapp\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A595E06-A86D-46FE-9079-358EF9F2C292}|JayaConsoleApp.csproj|solutionrelative:loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A595E06-A86D-46FE-9079-358EF9F2C292}|JayaConsoleApp.csproj|d:\\jayavel_workspace\\consoleapp\\jayaconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A595E06-A86D-46FE-9079-358EF9F2C292}|JayaConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Loops.cs",
+              "DocumentMoniker": "D:\\Jayavel_Workspace\\ConsoleApp\\JayaConsoleApp\\Loops.cs",
+              "RelativeDocumentMoniker": "Loops.cs",
+              "ToolTip": "D:\\Jayavel_Workspace\\ConsoleApp\\JayaConsoleApp\\Loops.cs",
+              "RelativeToolTip": "Loops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:23:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Jayavel_Workspace\\ConsoleApp\\JayaConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Jayavel_Workspace\\ConsoleApp\\JayaConsoleApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T18:21:29.423Z",
               "EditorCaption": ""
