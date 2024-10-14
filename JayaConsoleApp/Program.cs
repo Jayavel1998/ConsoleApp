@@ -89,9 +89,9 @@ namespace JayaConsoleApp
 
             }
 
+            /*
 
-
-            while (a <= 2)
+            while (a <= 5)
             {
                 Console.WriteLine("While loop");
                 Console.ReadLine();
@@ -99,6 +99,61 @@ namespace JayaConsoleApp
 
                 a++;
             }
+            
+
+
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(i);
+                a++;
+                Console.ReadLine();
+            }
+
+            
+
+            string c = "Volvo";
+            string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
+            Console.WriteLine(c);
+            foreach (string c in cars)
+            {
+                Console.WriteLine(c);
+            }
+            */
+
+
+
+
+
+
+
+
+
+            double productAmount = 20;
+            double givenAmount = 40;
+
+            if (givenAmount == productAmount) { Console.WriteLine("Correct Amount");
+                Console.ReadLine();
+            }
+
+
+            else if (givenAmount > productAmount)
+            {
+                double remain = givenAmount - productAmount;
+                Console.WriteLine("Need to get =" + remain);
+                Console.ReadLine();
+            }
+
+            else if (givenAmount < productAmount)
+            {
+                Console.WriteLine("Give right amount");
+                Console.ReadLine();
+            }
+
+
+
+
+
 
 
 
